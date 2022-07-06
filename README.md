@@ -22,7 +22,7 @@ You can use this library even if you do not know how to program (in Python or ot
 
 **Clone this repository**
 
-```git clone https://github.com/rounakbanik/generative-art-nft.git```
+```git clone https://github.com/StageYou-Inc/generate-nft-art.git```
 
 **Install required packages**
 
