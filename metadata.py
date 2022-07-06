@@ -18,10 +18,10 @@ BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
 BASE_NAME = ""
 
 BASE_JSON = {
-    "name": BASE_NAME,
-    "description": "",
-    "image": BASE_IMAGE_URL,
-    "attributes": [],
+    "name": "NFT Image Creation",
+    "description": "Created By Lakshan Mendis of NFT testing",
+    "image": "ipfs://QmeSYdKYPu86EK5748DenGXV7hFw41kf4MmfAccJ7ywm9Z",
+   "attributes": [],
 }
 
 
